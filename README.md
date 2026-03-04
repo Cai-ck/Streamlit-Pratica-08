@@ -1,4 +1,5 @@
 # Streamlit Visualizador de Recursos-
+> Projeto sujeito a atualizações
 Este projeto foi desenvolvido como parte do meu aprendizado no curso de **Desenvolvimento de Sistemas**. O objetivo principal foi colocar em prática o consumo de APIs externas e a criação de dashboards interativos utilizando a linguagem Python.
 
 ---
@@ -37,9 +38,9 @@ Por questões de segurança, o código utiliza o sistema de 'secrets' do Streaml
 ---  
 
 # ⚠️ IMPORTANTE
-Se você for clonar este repositório, se baser no código ou fazer o deploy do seu próprio projeto.
+Se você for clonar este repositório, se basear no código ou fazer o deploy do seu próprio projeto.
 1. **Nunca suba o seu arquivo 'secrets.toml' para o GitHub.** Ele contém a sua chave privada que da acesso á API.
-2. Certifique-se de que o arquivo '.streamlit/secrets.toml' estpa listado no seu arquivo '.gitignore'.
+2. Certifique-se de que o arquivo '.streamlit/secrets.toml' está listado no seu arquivo '.gitignore'.
 3. Se você enviar sua chave por engano para um repositório público, **Modifique imediatamente** no site do Portal da Transparência e gere uma nova.
 
 *Segurança da sua API key é de sua total responsabilidade*
