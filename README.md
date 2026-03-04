@@ -1,5 +1,5 @@
 # Streamlit Visualizador de Recursos-
-> Projeto sujeito a atualizações<
+> Projeto sujeito a atualizações
 
 Este projeto foi desenvolvido como parte do meu aprendizado no curso de **Desenvolvimento de Sistemas**. O objetivo principal foi colocar em prática o consumo de APIs externas e a criação de dashboards interativos utilizando a linguagem Python.
 
